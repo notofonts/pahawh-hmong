@@ -1,0 +1,10 @@
+{
+    "tests": [
+        {
+            "expectation": "u16B2D=0+561|u16B34=0@-261,0+0",
+            "input": "𖬭𖬴",
+            "note": "#3",
+            "only": "NotoSansPahawhHmong-Regular.ttf"
+        }
+    ]
+}
