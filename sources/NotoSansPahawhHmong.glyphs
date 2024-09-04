@@ -1,5 +1,5 @@
 {
-.appVersion = "3316";
+.appVersion = "3217";
 DisplayStrings = (
 "/u16B03",
 "/u16B26",
@@ -224,14 +224,6 @@ u16B8D,
 u16B8E,
 u16B8F
 );
-},
-{
-name = "Axis Mappings";
-value = {
-wght = {
-100 = 400;
-};
-};
 },
 {
 name = "Disable Last Change";
